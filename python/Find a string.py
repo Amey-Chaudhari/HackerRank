@@ -6,7 +6,7 @@
 
 #The first line of input contains the original string. The next line contains the substring.
 
-#Constraints
+#Constraints :  1 <= len(string) <= 200
 
 
 #Each character in the string is an ascii character.
