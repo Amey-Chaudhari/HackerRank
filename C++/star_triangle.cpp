@@ -1,3 +1,14 @@
+/* 
+
+Program to print half pyramid using *
+*
+* *
+* * *
+* * * *
+* * * * *
+
+*/
+
 #include <iostream>
 using namespace std;
 
