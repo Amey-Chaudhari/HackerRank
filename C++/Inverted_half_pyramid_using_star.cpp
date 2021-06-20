@@ -31,3 +31,33 @@ int main()
     
     return 0;
 }
+
+
+/*Another way of writing code for inverted half pyramid 
+just put j < = n+1-i
+*/
+#include <iostream>
+using namespace std;
+
+int main(){
+    int i,j,n;
+cin>>n;
+    for(i=1;i<=n;i++){
+        for(j=1;j<=n+1-i;j++){
+cout << "*";
+        }
+        cout << endl;
+    }
+}
+
+/*
+output ==> 
+
+5
+*****
+****
+***
+**
+*
+
+*/
