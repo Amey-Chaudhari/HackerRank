@@ -1,13 +1,13 @@
 
 # basic python programming
 print("Hello ,")
-print(" My name is Amey Chaudhari","\n from ECE 3rd year")
+print(" My name is Amey Chaudhari","\n from ECE")
 print()
 print("Nice to meet you")
 
-print("  - -  ", "  A| E | 3")
-print("_-_-_-_", "  M| C | rd")
-print(" <> <>", "   E| E | year")
+print("  - -  ", "  A| E ")
+print("_-_-_-_", "  M| C ")
+print(" <> <>", "   E| E |")
 print(" -___- ", "  Y|   ")
 print("   |   ")
 print(" ----- ")
