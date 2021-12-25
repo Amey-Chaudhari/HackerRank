@@ -17,7 +17,7 @@ if __name__ == '__main__':
     print_formatted(n)
     
     
-    
+ #This Solution is not passed the cases of hackerrank solution. but the output of this problem statement comes out true   
  '''   
     # String Formatting in Python - HackerRank Solution
 def print_formatted(number):
