@@ -6,6 +6,9 @@ Input Format
 The first line will contain an integer T - number of test cases. Then the test cases follow.
 The first and only line of each test case contains an integer N - the number of items bought by Chef.
 
+Constraints
+1≤T≤1000
+1≤N≤1000
 """
 
 t = int(input())
