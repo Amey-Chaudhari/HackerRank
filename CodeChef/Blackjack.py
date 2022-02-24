@@ -14,3 +14,12 @@ The first and only line of each test case contains two integers A and B - the fi
 Output Format
 For each testcase, output the 3-rd number that should be drawn by the Chef in order to win the game. Output −1 if it is not possible for the Chef to win the game.
 """
+# cook your dish here
+n = int(input())
+for i in range(0,n):
+    a,b=map(int,input().split(' '))
+    
+    if (21-(a+b)<=10):
+        print(21-(a+b))
+    else:
+        print(-1)
