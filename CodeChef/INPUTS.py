@@ -10,5 +10,5 @@ for i in range(0,n):
 k=input().split()
 
 #using map
-for
+k,m,n=map(int ,input().split(" "))
 
