@@ -11,4 +11,4 @@ k=input().split()
 
 #using map
 k,m,n=map(int ,input().split(" "))
-
+print(k,m,n)
