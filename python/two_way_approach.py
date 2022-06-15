@@ -20,8 +20,6 @@ def isPairSum(A, N, X):
  
     # No pair found with given sum
     return 0
- 
- 
 # Driver code
 arr = [2, 3, 5, 8, 9, 10, 11]
 val = 17
