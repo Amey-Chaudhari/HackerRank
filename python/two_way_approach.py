@@ -1,4 +1,6 @@
-
+# Python Program Illustrating Naive Approach to
+# Find if There is a Pair in A[0..N-1] with Given Sum
+ 
 def isPairSum(A, N, X):
  
     for i in range(N):
